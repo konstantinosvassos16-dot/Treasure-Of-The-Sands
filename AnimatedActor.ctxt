@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AnimatedActor
+comment1.params=first\ last
+comment1.target=void\ animate(int,\ int)
+comment2.params=newName
+comment2.target=void\ changeAnimation(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getAnimationName()
+comment4.params=
+comment4.target=int\ getFrame()
+comment5.params=
+comment5.target=java.lang.String\ getExtension()
+comment6.params=animationName\ direction\ lastFrame\ width\ height\ removeAfterDeath
+comment6.target=void\ playDeathAnimation(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ boolean)
+numComments=7

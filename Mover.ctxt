@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mover
+comment1.params=
+comment1.target=Mover()
+comment2.params=anySpeed
+comment2.target=Mover(int)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ checkKeys()
+numComments=5

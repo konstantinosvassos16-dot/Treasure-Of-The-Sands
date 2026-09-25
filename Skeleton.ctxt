@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Skeleton
+comment1.params=left\ right\ enemyHealth
+comment1.target=Skeleton(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ enemyMovingWithWorld()
+comment4.params=
+comment4.target=void\ enemyMovement()
+comment5.params=
+comment5.target=void\ skeletonDeath()
+comment6.params=
+comment6.target=boolean\ isDead()
+numComments=7
