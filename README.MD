@@ -17,6 +17,17 @@ I created the project to practice Java and object-oriented programming through t
 - Treasure chest and level progression
 - Sound effects
 
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Level 1
+![Level 1](screenshots/level1.png)
+
+### Level 2
+![Level 2](screenshots/level2.png)
+
 ## Built with
 
 - Java
